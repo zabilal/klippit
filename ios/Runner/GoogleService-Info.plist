@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233753569777-a86d84q72iomg2q9smjqnhicjgrbbu0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233753569777-a86d84q72iomg2q9smjqnhicjgrbbu0b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>233753569777-3hu41o62k2n2ufido1hf7s2raf6mrcsk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZqBMIVYZN4orrPZP3X95w2VCD4pTe2wY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233753569777</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fluidangle.klippitApp</string>
+	<key>PROJECT_ID</key>
+	<string>klippit-310cd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>klippit-310cd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233753569777:ios:a0a004d0850d728f6abc50</string>
+	<key>DATABASE_URL</key>
+	<string>https://klippit-310cd.firebaseio.com</string>
+</dict>
+</plist>

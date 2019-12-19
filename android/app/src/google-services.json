@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "233753569777",
+    "firebase_url": "https://klippit-310cd.firebaseio.com",
+    "project_id": "klippit-310cd",
+    "storage_bucket": "klippit-310cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233753569777:android:f6452a253e28a863",
+        "android_client_info": {
+          "package_name": "com.klippit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233753569777-r1m494git89512h2k0jpf01heh76oe4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klippit",
+            "certificate_hash": "69e6f9e83c238b98a5743c07d81ff9cb0896682e"
+          }
+        },
+        {
+          "client_id": "233753569777-3hu41o62k2n2ufido1hf7s2raf6mrcsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klippit",
+            "certificate_hash": "028b7015c0abb601a18de4080444d2bf1cde005e"
+          }
+        },
+        {
+          "client_id": "233753569777-6f9b66jv2acjic2q2u182adjc8ddqen1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klippit",
+            "certificate_hash": "ed27d5da8d7f19a3ea8b5a727d42823c08b6a3fb"
+          }
+        },
+        {
+          "client_id": "233753569777-g897qnv9gbvup4v29b4p3hp499fg1nht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuL-wJM6RDcsPDlCsf0QnOJAc4zyOKGU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233753569777-g897qnv9gbvup4v29b4p3hp499fg1nht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233753569777-a86d84q72iomg2q9smjqnhicjgrbbu0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluidangle.klippitApp",
+                "app_store_id": "1479612085"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

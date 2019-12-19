@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Pay</string>
+    <string name="facebook_app_id">495411171198448</string>
+    <string name="fb_login_protocol_scheme">fb495411171198448</string>
+  </resources>
